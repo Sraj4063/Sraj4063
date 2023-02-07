@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum machine learning
 - 🌱 I’m currently learning Quantum natural language processing 
 - 💞️ I’m looking to collaborate  in future
-- 📫 Reach me through "R.singh.12963@gmail.com" 
+- 📫 Reach me through "sraja4063@gmail.com" 
 -  Linkedin id - https://www.linkedin.com/in/raja-singh-a12107109/
 
 <!---
