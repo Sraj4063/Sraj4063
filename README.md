@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raja Singh
-- 👀 I’m interested in Quantum machine learning
+- 👀 I’m working in Quantum computing
 - 🌱 I’m currently learning Quantum natural language processing 
 - 💞️ I’m looking to collaborate  in future
 - 📫 Reach me through "sraja4063@gmail.com" 
